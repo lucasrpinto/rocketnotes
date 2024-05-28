@@ -3,24 +3,30 @@
 ### Versões e descrições do andemanto do projeto.
 ---
 ## Versão Atual:
-### V. 24.05.27 - (Curso)
-### Recurso adicionado:
-- Finalizado tela de Login e Cadastro
-- Adicionado Imagem a pagina
-- Implementado Input de Nome, E-mail e senha
+### Version - 0.4.0 - (Curso)
+### Finalizado tela de Profile:
+- Ajustado opção de troca de Nome, E-mail e senha
+- finalizado Style da pagina
+  
 
 ## Versões anteriores:
-### V. 24.05.27 - (Curso)
-#### Recurso adicionado: 
-- Finalizado tela de Home
+### Version - 0.3.0 - (Curso)
+### Finalizado tela de Login e Cadastro:
+- Adicionado Imagem a pagina
+- Implementado Input de Nome, E-mail e senha
+- finalizado Style da pagina
+---
+
+### Version - 0.2.0 - (Curso)
+#### Finalizado tela de Home:   
 - Adicionado lista de notas
 - implementado botão de Criar notas
 - Input de pesquisa adicionado a tela
+- finalizado Style da pagina
 ---
 
-### V. 24.05.23 - (Curso)
-#### Recurso adicionado: 
-- Instalado Styled Component
+### Version - 0.1.2 - (Curso)
+#### Instalado Styled Component: 
 - Alterado styles.css p/ styles.js
 - Intalado extensão no VSCode (VS-Styled-Component)
 - Adicionado arquivo Styles/Theme.js para colocar cor padrão para manutenção fácil
