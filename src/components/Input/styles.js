@@ -25,6 +25,12 @@ export const Container = styled.div`
             color: ${({ theme }) => theme.COLORS.GRAY_300};
         }
 
+        &:-webkit-autofill {
+            -webkit-box-shadow: 0 0 0px 1000px ${({ theme }) => theme.COLORS.BACKGROUND_900} inset;
+            -webkit-text-fill-color: ${({ theme }) => theme.COLORS.WHITE};
+            transition: background-color 5000s ease-in-out 0s;
+        }
+
        
     }
     > svg {

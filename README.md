@@ -3,13 +3,19 @@
 ### Versões e descrições do andemanto do projeto.
 ---
 ## Versão Atual:
+### Version - 0.6.0 - (Curso)
+### Finaliado Front-End da aplicação:
+- adicionado tela de SignIn e SignUp
+- Finalizado e configurado routes
+  
+
+## Versões anteriores:
 ### Version - 0.5.0 - (Curso)
 ### Finalizado tela de New:
 - Tela responsável pela adição de novas notas
 - Componente NoteItem e Textarea adicionados
-  
+---
 
-## Versões anteriores:
 ### Version - 0.4.0 - (Curso)
 ### Finalizado tela de Profile:
 - Ajustado opção de troca de Nome, E-mail e senha
